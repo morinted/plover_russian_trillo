@@ -73,8 +73,8 @@ KEYMAPS = {
 
 DICTIONARIES_ROOT = 'asset:plover_russian_trillo:dictionaries'
 DEFAULT_DICTIONARIES = (
-    'user.json',
-    'suffixes.json',
-    'prefixes.json',
-    'roots.json',
+    'trillo_user.json',
+    'trillo_suffixes.json',
+    'trillo_prefixes.json',
+    'trillo_roots.json',
 )
